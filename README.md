@@ -1,12 +1,12 @@
 # Data Science Projects
 
 Project1: 
-# Spaceship Lost Passengers Prediction -
+# Spaceship Lost Passengers Prediction (Machine Learning) -
      - A binary classification problem statement.   
-     - Performed Exploratory Data Analysis. Feature 
-       transformation, Data Preprocessing     
-     - Model Building (Ensemble techniques), Hyper
-        parameter Optimization, Cross validation
+     - Performed Exploratory Data Analysis. 
+     - Feature transformation, Data Preprocessing     
+     - Model Building (Ensemble techniques)
+     - Hyper-parameter Optimization, Cross validation
 
 # Loan Approval Prediction  
       - To predict loan defaulter risky applicant. 
@@ -17,7 +17,7 @@ Project1:
 # Exploratory Data Analysis on MtCARS dataset
      - Cleaningdata Handling Outliers
      - Analyzing relation between each features(features) usin Correlation 
-     - Visualizing realations susing Matplotlib module.
+     - Visualizing realations susing Seaborn & Matplotlib module.
 
         
 Files Downloadable:
